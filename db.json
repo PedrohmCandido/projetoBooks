@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "titulo": "título 2",
+      "autor": "autor 1",
+      "ano": 2004,
+      "genero": "terror",
+      "paginas": 200
+    },
+    {
+      "id": "2ae4",
+      "titulo": "Luta",
+      "autor": "Jhonson Smith",
+      "ano": "20",
+      "genero": "30",
+      "paginas": "450"
+    },
+    {
+      "id": "d3f1",
+      "titulo": "O pinguim que veio do frio",
+      "autor": "Malala",
+      "ano": "2013",
+      "genero": "Romance",
+      "paginas": "120"
+    }
+  ]
+}
